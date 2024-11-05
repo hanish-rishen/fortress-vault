@@ -79,7 +79,7 @@ A secure digital vault for storing encrypted text and files.
    ```
 
 3. Set up environment variables:
-   - Copy `.env.example` to `.env`
+   - Create a `.env` file
    - Fill in required environment variables:
      ```
      DATABASE_URL="mysql://user:password@localhost:3306/fortress"
